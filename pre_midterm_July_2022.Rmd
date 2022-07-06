@@ -1,0 +1,101 @@
+---
+title: "pre-midterm"
+subtitle: "Class 6"
+author: "Arya Singh"
+institute: "Shri Ram Global School"
+date: "2022/07/06 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    css: xaringan-themer.css
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+class: inverse, center, middle
+```{r , echo=FALSE}
+library(xaringanthemer)
+
+style_duo(
+  primary_color = "#1F4257",
+  secondary_color = "#F97B64",
+  header_font_google = google_font("Josefin Sans"),
+  text_font_google   = google_font("Montserrat", "300", "300i"),
+  code_font_google   = google_font("Fira Mono")
+)
+```
+
+
+
+---
+
+class: inverse, center, middle
+
+# Pre-Mid Examination Syllabus and Datesheet - Std. 6
+
+
+
+---
+# ICT 14th July’22, Thursday
+
+## Ch-1. Number System
+## Ch-2. File Explorer and Window Management - Components of the File Explorer Window.
+
+---
+# II Language(Hindi) 15th July’22 Friday
+सन
+ु हरी धपू :
+पाठ २ -कश्मीरी सेब
+व्याकरण:
+पाठ २- वर्ण-र्णवि चार
+पाठ ६- शब्द भडं ार(घ) पर्या यवाची शब्द-(1-12 शब्द)
+लि खि त: अपठि त गद्यांश, चि त्र वर्णनर्ण ।
+
+---
+# Mathematics 18th July’22 Monday
+
+New Maths Time
+## Ch1 - Knowing Numbers
+## Ch2 - Playing with Numbers (Ex 2.1 to 2.4)
+Till Prime Factorization.
+
+
+
+---
+# Social Science 19th July’22 Tuesday
+
+## Window on the World
+## History
+## Ch-1 When, Where and How
+## Geography
+## Ch-1 The Earth in the Solar System
+## Civics
+## Ch-1 Human Diversity
+
+---
+
+# English 20th July’22 Wednesday
+
+Gulmohar
+## Ch-1 Meeting Cézanne
+## Poem-Dust of Snow
+## Enjoying Grammar
+## Ch-3 Articles
+## Ch-15 Question Tags
+## Creative Writing
+## Personal letters of Apology
+## Unseen Passage
+
+
+---
+
+# Science 21st July’22 Thursday
+
+Excel in Science
+## Ch-1 Sources of Food
+## Ch-2 Components Of Food
+## Ch-15 Light, Shadows and Reflections
+
+
+
